@@ -1,1 +1,3 @@
-
+Need google colab
+onpen the project on colab
+upload the dataset in on the colab project
