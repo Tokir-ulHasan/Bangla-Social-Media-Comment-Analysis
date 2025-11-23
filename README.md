@@ -4,6 +4,8 @@ RNN & LSTM-based Deep Learning Models (TensorFlow/Keras)
 
 This repository contains all code required to train, evaluate, and run inference on Bangla social media comments using **Simple RNN** and **LSTM** architectures.
 
+Dataset: https://data.mendeley.com/datasets/xyxb5kryx3/1
+
 The project performs two tasks:
 
 * **Sentiment Classification**
